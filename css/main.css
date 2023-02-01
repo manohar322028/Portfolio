@@ -3602,7 +3602,10 @@ footer a:visited {
 
 }
 
-
+#contact {
+  
+  background-color: #ffffff;
+}
 
 /* ===================================================================
  * # IE10/IE11 Specific
@@ -3616,3 +3619,5 @@ html[data-useragent*='rv:11.0'] .ss-go-top::after {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+
